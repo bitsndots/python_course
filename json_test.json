@@ -1,0 +1,8 @@
+[0, 1, 2, 3, 4, 5, 6, 7, "dingsda", "pizza", 
+{
+"hostname": "myrouter.l33t.at", 
+"ip_addr": "172.17.2.1",
+"vendor": "cisco",
+"platform" : "asa"
+}
+]
